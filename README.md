@@ -1,104 +1,58 @@
-<div align="center">
-
 # 🐍 Python Journey
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+## 🚀 From Beginner to AI Engineer
 
-## 🚀 My Complete Python Learning Journey
+Welcome to my Python Journey repository.
 
-Learning Python from Beginner to Advanced — One Day at a Time
-
-[![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-KiranKumarV2830-black?logo=github)](https://github.com/KiranKumarV2830)
-[![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-
-![Repo Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey)
-![Last Commit](https://img.shields.io/github/last-commit/KiranKumarV2830/Python-Journey)
-![Stars](https://img.shields.io/github/stars/KiranKumarV2830/Python-Journey?style=social)
-![Forks](https://img.shields.io/github/forks/KiranKumarV2830/Python-Journey?style=social)
-
-</div>
+This repository contains my daily Python learning progress, coding exercises, interview questions, debugging challenges, and mini projects.
 
 ---
 
-# 📖 About
-
-Welcome to my **Python Journey** repository.
-
-This repository contains my day-by-day Python learning progress, coding exercises, practice sheets, interview questions, debugging challenges, IPO questions, and mini projects.
-
-My goal is to become an **AI Engineer** by building a strong programming foundation during my B.E. in **Computer Science Engineering (AI & ML)**.
-
----
-
-# 🎯 Goals
-
-- ✅ Master Python Programming
-- ✅ Improve Problem Solving Skills
-- ✅ Learn Data Structures
-- ✅ Build Real-World Projects
-- ✅ Learn AI & Machine Learning
-- ✅ Become a Software Engineer
-
----
-
-# 📚 Learning Progress
+# 📚 Progress
 
 | Day | Topic | Status |
-|------|--------------------------|:------:|
-| Day 01 | Python Basics | ✅ |
-| Day 02 | Variables & Data Types | ✅ |
-| Day 03 | Strings | ✅ |
-| Day 04 | Input & Type Casting | ✅ |
-| Day 05 | Operators | ✅ |
-| Day 06 | Comparison Operators | ✅ |
-| Day 07 | Nested If & Boolean Operators | ✅ |
-| Day 08 | Match Case | ✅ |
-| Day 09 | For Loops | ✅ |
-| Day 10 | While Loops | ✅ |
-| Day 11 | Functions | ✅ |
-| Day 12 | Parameters & Arguments | ✅ |
-| Day 13 | Return Statement | ✅ |
-| Day 14 | Variable Scope | ⏳ |
-| Day 15 | Lists | ⏳ |
+|------|-------------------------|:------:|
+| ✅ Day 1 | Python Basics | ✔ |
+| ✅ Day 2 | Variables & Data Types | ✔ |
+| ✅ Day 3 | Strings | ✔ |
+| ✅ Day 4 | User Input | ✔ |
+| ✅ Day 5 | Operators | ✔ |
+| ✅ Day 6 | Comparison Operators | ✔ |
+| ✅ Day 7 | Nested If | ✔ |
+| ✅ Day 8 | Match Case | ✔ |
+| ✅ Day 9 | For Loop | ✔ |
+| ✅ Day 10 | While Loop | ✔ |
+| ✅ Day 11 | Functions | ✔ |
+| ✅ Day 12 | Parameters | ✔ |
+| ✅ Day 13 | Return Statement | ✔ |
+| ✅ Day 14 | Variable Scope | ✔ |
+| ⏳ Day 15 | Lists | Coming Soon |
 
 ---
 
 # 📂 Repository Structure
 
-```text
-Python-Journey
-│
-├── Day-01
-├── Day-02
-├── Day-03
-├── Day-04
-├── Day-05
-├── Day-06
-├── Day-07
-├── Day-08
-├── Day-09
-├── Day-10
-├── Day-11
-├── Day-12
-├── Day-13
-│
-├── Mini-Projects
-│   ├── ATM PIN System
-│   ├── Calculator
-│   ├── Discount Calculator
-│   ├── Madlibs
-│   ├── Movie Ticket Booking System
-│   ├── Student Result Calculator
-│   ├── Temperature Conversion
-│   └── Weight Converter
-│
-├── Practice-Sheets
-│   ├── Practice Sheet 01
-│   └── Practice Sheet 02
-│
-└── README.md
+```
+Python-Journey/
+
+│── Day 01
+│── Day 02
+│── Day 03
+│── Day 04
+│── Day 05
+│── Day 06
+│── Day 07
+│── Day 08
+│── Day 09
+│── Day 10
+│── Day 11
+│── Day 12
+│── Day 13
+│── Day 14
+
+│── Mini Projects
+
+│── README.md
 ```
 
 ---
@@ -108,53 +62,36 @@ Python-Journey
 - Variables
 - Data Types
 - Strings
-- Input & Output
+- User Input
 - Type Casting
-- Operators
-- If-Else
+- Arithmetic Operators
+- If Else
 - Match Case
-- For Loops
-- While Loops
+- For Loop
+- While Loop
 - Functions
 - Parameters
-- Arguments
 - Return Statement
+- Local Variables
+- Global Variables
+- Variable Scope
 
 ---
 
-# 🛠 Mini Projects
+# 🚀 Mini Projects
 
+- 🎮 Madlibs Game
 - 🏧 ATM PIN Verification
-- 🧮 Calculator
-- 💸 Discount Calculator
-- 📝 Madlibs Game
-- 🎬 Movie Ticket Booking System
+- 🎬 Movie Ticket Booking
 - 🎓 Student Result Calculator
-- 🌡 Temperature Converter
-- ⚖ Weight Converter
-
----
-
-# 📄 Practice Sheets
-
-- Practice Sheet 01
-- Practice Sheet 02
-
-Each practice sheet contains:
-
-- IPO Questions
-- Output Prediction
-- Debugging
-- Interview Questions
-- Coding Problems
-- Think Like a Programmer
+- 🏦 Bank Account System
 
 ---
 
 # 🛠 Tools Used
 
-- Python 3.14
-- Visual Studio Code
+- Python 3
+- VS Code
 - Git
 - GitHub
 
@@ -162,49 +99,35 @@ Each practice sheet contains:
 
 # 📈 Progress
 
-```text
-Python Progress
+```
+██████████████□□□□□□□□□□□□
 
-█████████████░░░░░░░░░░░░
-
-Day 13 / 30 Completed
+14 / 40 Days Completed
 ```
 
 ---
 
-# 🚀 Future Topics
+# 🎯 Goal
 
-- Variable Scope
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- File Handling
-- Exception Handling
+Become an AI Engineer by mastering:
+
+- Python
+- Data Structures
 - Object-Oriented Programming
-- Modules
-- Libraries
-
----
-
-# 🌟 GitHub
-
-**Profile**
-
-**https://github.com/KiranKumarV2830**
+- Machine Learning
+- Deep Learning
+- AI Projects
 
 ---
 
 # ⭐ Quote
 
-> "Success is built one day, one commit, and one program at a time."
+> "Success is the sum of small efforts, repeated day in and day out."
 
 ---
 
-<div align="center">
+# 👨‍💻 Author
 
-### ⭐ Happy Coding!
+**Kiran Kumar V**
 
-Made with ❤️ by **Kiran Kumar V**
-
-</div>
+Learning Python every day 🚀

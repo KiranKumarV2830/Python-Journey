@@ -4,11 +4,11 @@
 
 ### 🚀 From Python Beginner to AI Engineer
 
-Learning Python one day at a time — building my fundamentals through practice, problem solving, and mini projects.
+Learning Python one day at a time through coding, problem-solving, debugging, and mini projects.
 
-[![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-KiranKumarV2830-black?logo=github)](https://github.com/KiranKumarV2830)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-KiranKumarV2830-black?logo=github)
 
 ![Last Commit](https://img.shields.io/github/last-commit/KiranKumarV2830/Python-Journey)
 ![Repository Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey)
@@ -19,15 +19,15 @@ Learning Python one day at a time — building my fundamentals through practice,
 
 ---
 
-# 📖 About This Repository
+## 📖 About This Repository
 
-Welcome to my **Python Journey**!
+Welcome to my **Python Journey**! 🐍
 
-This repository documents my progress as I learn Python from the fundamentals and gradually move toward advanced Python, problem solving, and AI/ML development.
+This repository documents my progress while learning Python from the fundamentals.
 
-I am learning through:
+I am learning by combining:
 
-- 📚 Theory
+- 📚 Concepts
 - 💻 Coding Problems
 - 🧠 IPO Questions
 - 🔮 Output Prediction
@@ -36,19 +36,20 @@ I am learning through:
 - 🚀 Mini Projects
 - 📝 Practice Sheets
 
-My goal is to build a strong programming foundation before moving deeper into **AI and Machine Learning**.
+My long-term goal is to build a strong programming foundation and eventually move toward **AI and Machine Learning**.
 
 ---
 
 # 🎯 My Goals
 
 - Master Python fundamentals
+- Improve logical thinking
 - Improve problem-solving skills
 - Learn Data Structures
 - Learn Object-Oriented Programming
 - Build real-world projects
-- Learn Git and GitHub
-- Learn AI and Machine Learning
+- Become comfortable with Git & GitHub
+- Learn AI/ML
 - Become an AI Engineer
 
 ---
@@ -69,10 +70,10 @@ My goal is to build a strong programming foundation before moving deeper into **
 | Day 10 | While Loops | ✅ |
 | Day 11 | Functions | ✅ |
 | Day 12 | Function Parameters | ✅ |
-| Day 13 | Return Statement | ✅ |
+| Day 13 | Return Statements | ✅ |
 | Day 14 | Variable Scope | ✅ |
 | Day 15 | Lists | ✅ |
-| Day 16 | List Methods | ⏳ |
+| Day 16 | List Methods | ✅ |
 | Day 17 | 2D Lists | ⏳ |
 | Day 18 | Tuples | ⏳ |
 | Day 19 | Sets | ⏳ |
@@ -90,33 +91,33 @@ My goal is to build a strong programming foundation before moving deeper into **
 
 ---
 
-# 📚 Topics Covered So Far
+# 📚 Topics Covered
 
-### 🟢 Python Fundamentals
+## 🟢 Python Fundamentals
 
 - Python Basics
 - Variables
 - Data Types
 - Strings
-- User Input
+- Input
 - Type Casting
-- Arithmetic Operators
+- Operators
 - Comparison Operators
 - Boolean Logic
 
-### 🔵 Control Flow
+## 🔵 Control Flow
 
 - `if`
 - `elif`
 - `else`
 - Nested `if`
 - `match-case`
-- `for` loops
-- `while` loops
+- `for`
+- `while`
 - `break`
 - `continue`
 
-### 🟣 Functions
+## 🟣 Functions
 
 - Creating Functions
 - Calling Functions
@@ -126,23 +127,34 @@ My goal is to build a strong programming foundation before moving deeper into **
 - Variable Scope
 - Local Variables
 - Global Variables
-- `global` Keyword
 
-### 🟠 Lists
+## 🟠 Lists
 
 - Creating Lists
-- List Indexing
+- Indexing
 - Negative Indexing
-- Changing List Items
+- Changing Elements
 - `len()`
-- `in` Operator
+- `in`
 - Looping Through Lists
+
+## 🟡 List Methods
+
+- `append()`
+- `insert()`
+- `remove()`
+- `pop()`
+- `clear()`
+- `sort()`
+- `reverse()`
+- `count()`
+- `index()`
 
 ---
 
 # 🚀 Mini Projects
 
-| Project | Topic |
+| Project | Main Concepts |
 |---|---|
 | 🎮 Madlibs Game | Python Basics |
 | 🏧 ATM PIN Verification | While Loop |
@@ -151,6 +163,7 @@ My goal is to build a strong programming foundation before moving deeper into **
 | 🎓 Student Result Calculator | Functions |
 | 🏦 Bank Account System | Variable Scope |
 | 📊 Student Marks Analyzer | Lists |
+| 🛒 Shopping Cart Manager | Lists & List Methods |
 
 ---
 
@@ -174,13 +187,15 @@ Python-Journey/
 ├── Day 13/
 ├── Day 14/
 ├── Day 15/
+├── Day 16/
 │
 ├── Mini Projects/
 │   ├── ATM PIN Verification/
 │   ├── Movie Ticket Booking/
 │   ├── Student Result Calculator/
 │   ├── Bank Account System/
-│   └── Student Marks Analyzer/
+│   ├── Student Marks Analyzer/
+│   └── Shopping Cart Manager/
 │
 ├── Practice Sheets/
 │

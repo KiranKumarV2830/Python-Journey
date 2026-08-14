@@ -28,8 +28,10 @@ for high in students.values():
 
 print(highest)
 
-lowest = students
+lowest = students["Kiran"][0]
 for low in students.values():
-    for num in low :
-        if low < lowest:
-            lowest = low
+    for num in low:
+        if num < lowest:
+            lowest = num 
+
+print(lowest)

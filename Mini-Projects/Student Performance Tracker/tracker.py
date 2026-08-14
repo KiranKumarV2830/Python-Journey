@@ -35,3 +35,16 @@ for low in students.values():
             lowest = num 
 
 print(lowest)
+
+for name1,marks1 in students.items():
+    print(name1)
+    total1 = 0
+    for num in marks1:
+        total1 += num 
+    print(total1)
+    avg = total1 / len(marks1)
+    print(avg)
+    if avg >= 40:
+        print("Pass")
+    else:
+        print("Fail")

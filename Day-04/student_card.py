@@ -1,0 +1,13 @@
+name = input("Enter your name :")
+age =int(input("Enter your age :"))
+college = input("Enter your college name :")
+subject = input("Enter your Favourite subject :")
+career = input("Enter your Dream career :")
+
+print("========== STUDENT CARD ==========")
+print(f"Name : {name}")
+print(f"Age : {age}")
+print(f"College : {college}")
+print(f"Subject : {subject}")
+print(f"Career : {career}")
+print("==================================")

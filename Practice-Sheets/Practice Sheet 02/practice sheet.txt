@@ -1,0 +1,52 @@
+1 . 1 
+    2
+    3
+2 . 2
+    4 
+    6
+3 . Correct
+4 . Adult
+5 . Wrong
+6 . B
+7 . 1
+    2 
+    4 
+    5
+    6
+8 . Burger
+9 . 5
+    3
+10 . Login Required 
+1 . The greater symbol should come first then equal to symbol like >=
+2 . there is no identation 
+3. There is no colon symbol after match food and also there are no other cases when the user enters other options
+4 . It will create infinite loop 
+5 . 3
+
+Interview questions 
+
+1 . for loop is used when the range is known to the user while is used when the range is not known to user and another difference for while the increment and decrement happens automatically but in while loop it does not happen
+2 . when the range is unknown to the user we should use while loop 
+3 . when while loop does not have a stopping point like where the condition becomes false 
+4 . purpose of break is to skip the iteration 
+5 . Boolean expression is condition where it has two types True and False which is used in loops more often 
+6 . = is used for assignment like a = 2 but == means it is equal to something like a= 2
+     a==2
+7. When there are two or more conditions required to print or login nested if statement is used 
+8 . match case is better when only one variable is there and rest are fixed value 
+9 . not reverts the output like not true becomes false 
+10 . then it moves else loop or elif loop or may be doesn't print anything 
+11 . So it can move into another iteration 
+12 . to check whether they have used correct data type 
+13 . for login into a website , for banking ,and  also restaurant 
+14 . edge cases are the mistakes which is done by user unknownilly and also common 
+15 . using = instead == , starting the variable name with capital letters , not type casting the input , creates infinite loop , entering escape button while exceute the block of code 
+
+Section F 
+
+1 . first the program should ask for the language and the location access then the program shows many trains where they are going then the user clicks the book ticket then the program should ask the location where they are willing to go then the program should show the trains that are available and the timings they arrive nearest station then the user picks one train then the program ask the user where they will aboard the train then the program shows the ticket availability then the program ask for how many seats they want then the user selects the seats the program should show different sections ticket availability if the user confirms the tickets and train then the program should show the total price and the offers  that are available when the user proceeds to payment it shows the seat and payment options like cash or upi then the seat is confirmed or maybe in waiting list then the user might want to cancel the seat then the program should cancel the seat then give the seat to waiting list people and the refund should be given edge cases the user selects wrong train and timings and stations and the program might go under maintancce and the user doesn't get refund and the user cancel the seat at the last minute which will lead to non cancelable refund 
+
+2 . The program should ask the user which college they want to join then the program should ask which course they want to join then the user selects one course over many courses then the program should ask the user their parents name and phone number then the program should send the otp to their parents number then the program should the marks of 10th and 12th and percentage then the user should ask the user their important document required then the user should pay certain amount of fees to get their seat blocked then the user decides to join that college then the program ask whether they want the seat or not then the user should proceed to payment then the program should ask the user to pay minimium amount to pay like 1 lakh then the user accepts it then the program ask the user the payment method like cash or upi later when the payment is done the user gets a email from the college side that they are admitted to this college 
+the edge cases are the user may enter wrong course and the user uses different phone number than his and the user enter names wrong and the user may enter marks he/she wrong then the user gives the wrong document 
+
+3 . 

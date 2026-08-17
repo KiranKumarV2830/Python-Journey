@@ -102,12 +102,13 @@
 
 # Question 2
 
-try : 
-    num1 = int(input("Enter first number : "))
-    num2 = int(input("Enter second number : "))
-    result = num1/num2
-    print(result)
-except ZeroDivisionError:
-    print("Cannot Divide by zero .")
-except ValueError:
-    print("please enter numbers only")
+# try : 
+#     num1 = int(input("Enter first number : "))
+#     num2 = int(input("Enter second number : "))
+#     result = num1/num2
+#     print(result)
+# except ZeroDivisionError:
+#     print("Cannot Divide by zero .")
+# except ValueError:
+#     print("please enter numbers only")
+

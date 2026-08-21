@@ -1,3 +1,5 @@
+# 🌦️ Weather Checker App
+
 # 🐍 Python Journey
 
 # 🚀 From Beginner to AI Engineer
@@ -10,8 +12,8 @@ Learning Python one day at a time.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
 ![Learning](https://img.shields.io/badge/Learning-Daily-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Day-24-orange?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Mini%20Projects-11-blueviolet?style=for-the-badge)
+![Days](https://img.shields.io/badge/Day-25-orange?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Mini%20Projects-13-blueviolet?style=for-the-badge)
 
 ![Last Commit](https://img.shields.io/github/last-commit/KiranKumarV2830/Python-Journey?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey?style=for-the-badge)
@@ -81,7 +83,7 @@ My goal is to build strong programming fundamentals and eventually become an **A
 | Day 22 | Exception Handling              | ✅      |
 | Day 23 | File Handling                   | ✅      |
 | Day 24 | Modules & Imports               | ✅      |
-| Day 25 | Virtual Environments & pip      | ⬜      |
+| Day 25 | Virtual Environments & pip      | ✅      |
 | Day 26 | Python Libraries & Packages     | ⬜      |
 | Day 27 | Comprehensions                  | ⬜      |
 | Day 28 | `*args` & `**kwargs`            | ⬜      |
@@ -129,6 +131,7 @@ Python-Journey/
 ├── Day-22/
 ├── Day-23/
 ├── Day-24/
+├── Day-25/
 │
 ├── Mini-Projects/
 │   ├── ATM PIN Verification/
@@ -141,7 +144,9 @@ Python-Journey/
 │   ├── Shopping Cart/
 │   ├── Weight Converter/
 │   ├── Temperature Converter/
-│   └── Notes App CLI/
+│   ├── Notes App CLI/
+│   ├── Personal Utility Toolkit/
+│   └── Weather Checker App/
 │
 ├── Practice-Sheets/
 │

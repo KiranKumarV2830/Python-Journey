@@ -1,0 +1,10 @@
+city = input("Enter a City name : ")
+
+import requests
+
+def get_weather(city):
+    url = f"https://wttr.in/{city}?format=3"
+    response = requests.get(url)
+    return response.text
+
+print(get_weather(city))
